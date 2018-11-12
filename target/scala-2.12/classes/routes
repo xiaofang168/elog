@@ -1,2 +1,0 @@
-## Hello Play JSON Controller
-GET        /search/qps/:module        controllers.SearchController.qps(module: String)

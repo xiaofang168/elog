@@ -2,372 +2,174 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e0e36d2-12eb-45a1-8dda-3a6f77384c90" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/hydra.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__cglib_cglib_nodep_3_2_4_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__ch_qos_logback_logback_classic_1_2_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__ch_qos_logback_logback_core_1_2_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_8_11_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_8_11_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_8_11_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_8_11_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_8_11_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_code_findbugs_jsr305_1_3_9_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_code_gson_gson_2_8_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_errorprone_error_prone_annotations_2_0_18_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_guava_22_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_extensions_guice_assistedinject_4_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_guice_4_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_j2objc_j2objc_annotations_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_12_2_5_11_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_http_core_2_12_10_0_13_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_parsing_2_12_10_0_13_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_protobuf_2_12_2_5_11_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_slf4j_2_12_2_5_11_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_stream_2_12_2_5_11_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_config_1_3_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_build_link_2_6_17_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_filters_helpers_2_12_2_6_17_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_2_12_2_6_17_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_akka_http_server_2_12_2_6_17_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_exceptions_2_6_17_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_functional_2_12_2_6_9_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_guice_2_12_2_6_17_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_json_2_12_2_6_9_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_logback_2_12_2_6_17_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_netty_utils_2_6_17_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_server_2_12_2_6_17_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_streams_2_12_2_6_17_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_play_test_2_12_2_6_17_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_play_twirl_api_2_12_1_3_14_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_ssl_config_core_2_12_0_2_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_io_commons_io_2_5_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_logging_commons_logging_1_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_jsonwebtoken_jjwt_0_7_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_transaction_jta_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_3_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__joda_time_joda_time_2_9_9_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_12_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_java_dev_jna_jna_4_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_java_dev_jna_jna_platform_4_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_cssparser_cssparser_0_9_23_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_htmlunit_2_27_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_htmlunit_core_js_2_27_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sourceforge_htmlunit_neko_htmlunit_2_27_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_exec_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_httpcomponents_httpmime_4_5_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_atteo_classindex_classindex_3_4_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_codehaus_mojo_animal_sniffer_annotations_1_14_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_client_9_4_5_v20170502_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_http_9_4_5_v20170502_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_io_9_4_5_v20170502_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_jetty_util_9_4_5_v20170502_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_api_9_4_5_v20170502_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_client_9_4_5_v20170502_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_eclipse_jetty_websocket_websocket_common_9_4_5_v20170502_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_fluentlenium_fluentlenium_core_3_3_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_reactivestreams_reactive_streams_1_0_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_2_12_0_8_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_12_1_0_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_0_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_4_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_4_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_htmlunit_driver_2_27_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_api_3_5_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_firefox_driver_3_5_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_remote_driver_3_5_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_seleniumhq_selenium_selenium_support_3_5_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_25_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_25_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_25_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_macro_compat_2_12_1_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_w3c_css_sac_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xalan_serializer_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xalan_xalan_2_7_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xerces_xercesImpl_2_11_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xml_apis_xml_apis_1_4_01_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/root.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/play2_project_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/play2_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/SearchController.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/SettingMgrController.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/HelloWorld.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/LogStash.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/services/ElkService.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/conf/application.conf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/conf/config.conf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/conf/logback.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/conf/routes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/logs/application.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/build.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$639b167203a2b20208d6$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$639b167203a2b20208d6.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/project/target/config-classes/$639b167203a2b20208d6.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4bc158873359b44cedf5$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4bc158873359b44cedf5.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4bc158873359b44cedf5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4c640c09c2278ca37eaa$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4c640c09c2278ca37eaa.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4c640c09c2278ca37eaa.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$8ba958c7774ba6fed517$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$8ba958c7774ba6fed517.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$8ba958c7774ba6fed517.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$aac8ce2cdad9ff55aba2$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$aac8ce2cdad9ff55aba2.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$aac8ce2cdad9ff55aba2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d4f465cb3fda3de154ed$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d4f465cb3fda3de154ed.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$d4f465cb3fda3de154ed.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$f1d3716c89be85da63e6$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$f1d3716c89be85da63e6.cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$f1d3716c89be85da63e6.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/elog-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/elog-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/playjsonscalahelloworldexample-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/playjsonscalahelloworldexample-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elog-build-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elog-build-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elog-build-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elog-build-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elog-build-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elog-build-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elog-build-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elog-build-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elog-build-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elog-build-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-elog-build-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-playjsonscalahelloworldexample-build-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-playjsonscalahelloworldexample-build-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-playjsonscalahelloworldexample-build-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-playjsonscalahelloworldexample-build-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-playjsonscalahelloworldexample-build-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-playjsonscalahelloworldexample-build-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-playjsonscalahelloworldexample-build-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-playjsonscalahelloworldexample-build-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-playjsonscalahelloworldexample-build-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-playjsonscalahelloworldexample-build-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-playjsonscalahelloworldexample-build-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/.history" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/application.conf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/config.conf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/ReverseSearchController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/SearchController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/SettingMgrController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/javascript/ReverseSearchController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/routes$javascript.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/routes.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/logback.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/models/HelloWorld$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/models/HelloWorld.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/models/QpsParam$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/models/QpsParam.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/models/RangeParam$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/models/RangeParam.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/models/Stash$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/models/Stash.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/router/Routes.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/router/RoutesPrefix$.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/router/RoutesPrefix.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/routes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/services/ElkService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/elog/elog$sources/1.0.0/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/elog/elog$sources/1.0.0/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/elog/elog_2.12/1.0.0/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/elog/elog_2.12/1.0.0/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.1.7/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.1.7/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/playjsonscalahelloworldexample/playjsonscalahelloworldexample$sources/1.0.0/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/playjsonscalahelloworldexample/playjsonscalahelloworldexample$sources/1.0.0/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/playjsonscalahelloworldexample/playjsonscalahelloworldexample_2.12/1.0.0/resolved.xml.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/playjsonscalahelloworldexample/playjsonscalahelloworldexample_2.12/1.0.0/resolved.xml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-debian.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-docker.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-docs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-linux.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-rpm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-universal-docs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-universal-src.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-universal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-windows.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-debian.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-docker.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-docs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-linux.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-rpm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-universal-docs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-universal-src.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-universal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-windows.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-debian.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-docker.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-docs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-linux.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-rpm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-universal-docs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-universal-src.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-universal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-windows.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-compile-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-compile.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-debian.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-docker.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-docs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-linux.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-optional.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-plugin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-provided.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-rpm.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-runtime-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-runtime.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-scala-tool.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-test-internal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-test.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-universal-docs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-universal-src.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-universal.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-windows.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/routes/main/controllers/routes.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/routes/main/router/Routes.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/routes/main/router/RoutesPrefix.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/sync-exported-assets-web-assets" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/playCommonClassloader/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/playCompileEverything/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/playRoutes/$global/streams/op-cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/twirlCompileTemplates/$global/streams/out" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/web-assets/assets/$global/streams/sync-assets-web-assets" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/target/.history" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/application.conf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/config.conf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/ReverseSearchController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/SearchController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/SettingMgrController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/javascript/ReverseSearchController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/routes$javascript.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/controllers/routes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/logback.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/models/HelloWorld$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/models/HelloWorld.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/models/QpsParam$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/models/QpsParam.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/models/RangeParam$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/models/RangeParam.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/models/Stash$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/models/Stash.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/router/Routes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/router/RoutesPrefix$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/router/RoutesPrefix.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/routes" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/services/ElkService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/elog/elog$sources/1.0.0/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/elog/elog$sources/1.0.0/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/elog/elog_2.12/1.0.0/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/elog/elog_2.12/1.0.0/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.1.7/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.1.7/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/playjsonscalahelloworldexample/playjsonscalahelloworldexample$sources/1.0.0/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/playjsonscalahelloworldexample/playjsonscalahelloworldexample$sources/1.0.0/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/playjsonscalahelloworldexample/playjsonscalahelloworldexample_2.12/1.0.0/resolved.xml.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/playjsonscalahelloworldexample/playjsonscalahelloworldexample_2.12/1.0.0/resolved.xml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-debian.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-docker.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-linux.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-rpm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-universal-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-universal-src.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-universal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog$sources-windows.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-debian.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-docker.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-linux.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-rpm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-universal-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-universal-src.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-universal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/elog-elog_2.12-windows.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-debian.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-docker.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-linux.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-rpm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-universal-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-universal-src.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-universal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample$sources-windows.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-compile-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-compile.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-debian.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-docker.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-linux.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-optional.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-plugin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-provided.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-rpm.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-runtime-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-runtime.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-scala-tool.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-test-internal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-test.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-universal-docs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-universal-src.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-universal.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/playjsonscalahelloworldexample-playjsonscalahelloworldexample_2.12-windows.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/routes/main/controllers/routes.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/routes/main/router/Routes.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/routes/main/router/RoutesPrefix.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/sync-exported-assets-web-assets" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/playCommonClassloader/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/playCompileEverything/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/playRoutes/$global/streams/op-cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/twirlCompileTemplates/$global/streams/out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/streams/web-assets/assets/$global/streams/sync-assets-web-assets" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -400,7 +202,7 @@
         <entry file="file://$PROJECT_DIR$/app/models/LogStash.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -410,7 +212,7 @@
         <entry file="file://$PROJECT_DIR$/app/services/ElkService.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -419,8 +221,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -440,7 +242,7 @@
         <entry file="file://$PROJECT_DIR$/app/controllers/SettingMgrController.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -450,7 +252,7 @@
         <entry file="file://$PROJECT_DIR$/app/controllers/SearchController.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -792,16 +594,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542022038257</updated>
-      <workItem from="1542022039606" duration="883000" />
+      <workItem from="1542022039606" duration="941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="883000" />
+    <option name="totallyTimeSpent" value="941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -826,7 +627,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -895,7 +696,7 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/SettingMgrController.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -903,7 +704,7 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/SearchController.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -919,7 +720,7 @@
     <entry file="file://$PROJECT_DIR$/app/models/LogStash.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -927,7 +728,7 @@
     <entry file="file://$PROJECT_DIR$/app/services/ElkService.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -942,8 +743,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>

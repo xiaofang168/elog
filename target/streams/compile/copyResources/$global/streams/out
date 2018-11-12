@@ -1,5 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/fangjie/scala_workspaces/elog/conf/logback.xml,/Users/fangjie/scala_workspaces/elog/target/scala-2.12/classes/logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/fangjie/scala_workspaces/elog/conf/config.conf,/Users/fangjie/scala_workspaces/elog/target/scala-2.12/classes/config.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/fangjie/scala_workspaces/elog/conf/application.conf,/Users/fangjie/scala_workspaces/elog/target/scala-2.12/classes/application.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/Users/fangjie/scala_workspaces/elog/conf/routes,/Users/fangjie/scala_workspaces/elog/target/scala-2.12/classes/routes)[0m
