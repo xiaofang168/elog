@@ -5,3 +5,5 @@ logs
 *.iws
 .idea
 .classpath
+project/project
+project/target
